@@ -10,6 +10,6 @@ phone.addEventListener('mouseover', function(){
 
 phone.addEventListener('click', function(){
   if(ticklishAudio.paused){
-    ticklishAudio.play();
+    ticklishAudio .play();
   }
 });
